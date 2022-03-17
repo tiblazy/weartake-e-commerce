@@ -1,0 +1,43 @@
+const produtos = [{
+    id: "1",
+    imagem: "./img/Men-Jacket-Front-Black__15466 1.png",
+    nome: "Lightweight Jacket",
+    tipo: "Camisetas",
+    desc: "Adicione um pouco de energia ao seu guarda-roupa de inverno com esta jaqueta vibrante....",
+    valor: 100,
+}, {
+    id: "2",
+    imagem: "./img/image 1.png",
+    nome: "Black Hat",
+    tipo: "Acessórios",
+    desc: "O gorro Next.js chegou! Esta beldade bordada tem um ajuste confortável que garante que...",
+    valor: 100,
+}, {
+    id: "3",
+    imagem: "./img/Surgical-Mask-Black__89554 1.png",
+    nome: "Mask",
+    tipo: "Acessórios",
+    desc: "Esta máscara facial durável é feita de duas camadas de tecido tratado e possui presilhas...",
+    valor: 40,
+}, {
+    id: "4",
+    imagem: "./img/Men-TShirt-Black-Front__70046 1.png",
+    nome: "T-Shirt",
+    tipo: "Camisetas",
+    desc: "Esta t-shirt é imprescindível no seu guarda-roupa, combinando o caimento intemporal de...",
+    valor: 100,
+}, {
+    id: "5",
+    imagem: "./img/mockup-a0dc2330__62146 1.png",
+    nome: "Short-Sleeve T-Shirt",
+    tipo: "Camisetas",
+    desc: "Agora você encontrou a camiseta básica do seu guarda-roupa. É feito de um mais grosso...",
+    valor: 100,
+}, {
+    id: "6",
+    imagem: "./img/mockup-9b9894f1__67347 1.png",
+    nome: "Champion Packable Jacket",
+    tipo: "Camisetas",
+    desc: "Proteja-se dos elementos com esta jaqueta embalável Champion. Esta jaqueta de poliést...",
+    valor: 100,
+}]
